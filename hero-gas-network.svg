@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" fill="none">
+<rect width="1200" height="720" rx="36" fill="#0B1F4D"/>
+<circle cx="964" cy="144" r="240" fill="#173D8F" opacity=".65"/>
+<circle cx="1130" cy="580" r="180" fill="#FFB100" opacity=".18"/>
+<rect x="94" y="120" width="420" height="480" rx="32" fill="#112A66" stroke="#2F5BD2"/>
+<rect x="156" y="208" width="168" height="26" rx="13" fill="#FFB100"/>
+<rect x="156" y="260" width="286" height="22" rx="11" fill="#DCE6FF" opacity=".95"/>
+<rect x="156" y="304" width="248" height="22" rx="11" fill="#DCE6FF" opacity=".7"/>
+<rect x="156" y="380" width="108" height="108" rx="24" fill="#0B1F4D" stroke="#3EE18D" stroke-width="4"/>
+<path d="M210 412c13 0 24 11 24 24s-11 24-24 24-24-11-24-24 11-24 24-24Z" stroke="#3EE18D" stroke-width="6"/>
+<path d="M588 198h406" stroke="#DCE6FF" stroke-width="18" stroke-linecap="round"/>
+<path d="M588 258h296" stroke="#DCE6FF" stroke-width="18" stroke-linecap="round" opacity=".85"/>
+<path d="M588 372h426" stroke="#7EA0FF" stroke-width="22" stroke-linecap="round"/>
+<path d="M588 432h334" stroke="#DCE6FF" stroke-width="18" stroke-linecap="round" opacity=".82"/>
+<rect x="584" y="500" width="214" height="74" rx="20" fill="#3EE18D"/>
+<text x="120" y="160" fill="#FFFFFF" font-size="56" font-family="Arial, Helvetica, sans-serif" font-weight="700">Gás Network</text>
+<text x="120" y="540" fill="#DCE6FF" font-size="30" font-family="Arial, Helvetica, sans-serif">Engenharia especializada em sistemas de gás</text>
+</svg>
